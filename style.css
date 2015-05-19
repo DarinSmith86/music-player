@@ -1,0 +1,45 @@
+body {
+  box-sizing: border-box;
+  background-color: rgba(247,247,247,1);
+}
+
+p {
+display:inline-block;
+font-family: sans-serif;
+
+
+}
+
+div {
+  border-top: 1px solid lightgrey;
+}
+
+
+
+.fa, .fa-stop {
+  color: black;
+  display: inline;
+
+}
+
+header {
+  width: 80%;
+  padding: 1px;
+  background-color: rgba(27,28,29,1);
+  margin-left: 10%;
+  border-radius: 5px;
+}
+
+.select-song {
+  color: rgba(255,255,255,1);
+  text-align: center;
+  font-size: 21px;
+  font-family: sans-serif;
+}
+
+.song-title {
+  margin-left: 10%;
+  font-size: 25px;
+
+
+}
